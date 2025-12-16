@@ -1,4 +1,4 @@
-/apiimport axios from 'axios';
+import axios from 'axios';
 
 const API = axios.create({
   baseURL: 'https://blog-app-uf7w.onrender.com/api',
